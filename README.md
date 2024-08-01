@@ -1,4 +1,4 @@
-# RAG-Application: 
+# RAG- LangChain Application: 
 Hello All,
 
 I have Created Small RAG Application where i have used BUDGET 2024 pdf as our data source and based on PDF this application will do Q/A
